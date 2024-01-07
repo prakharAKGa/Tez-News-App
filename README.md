@@ -11,7 +11,32 @@ Tez News App is a simple mobile application that provides users with news fetche
 - Simple and user-friendly interface
 
 ## Screenshots
-Include screenshots or GIFs of your app to give users a visual preview.
+
+<table>
+  <tr>
+    <td align="center">
+<img src="https://github.com/prakharAKGa/Tez-News-App/assets/132068324/115fffe6-0461-4cd4-a985-fe85985ca2b5" alt=
+"Screenshot 1" height="400px">
+</td>
+ <td align="center">
+<img src="https://github.com/prakharAKGa/Tez-News-App/assets/132068324/a202ac5a-51d3-4edb-98bd-c7c6df4e043c" alt=
+"Screenshot 2" height="400px">
+</td>
+ <td align="center">
+
+<img src="https://github.com/prakharAKGa/Tez-News-App/assets/132068324/02863125-cb99-4b86-9171-5210cf9f4287" alt=
+"Screenshot 3" height="400px">
+</td>
+ <td align="center">
+
+<img src="https://github.com/prakharAKGa/Tez-News-App/assets/132068324/a91f2aee-73ec-467f-a2a6-87cc772ce186" alt=
+"Screenshot 4" height="400px">
+</td>
+ </td>
+  </tr>
+</table>
+
+
 
 ## Installation
 1. Clone the repository:

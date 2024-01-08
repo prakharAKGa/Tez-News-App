@@ -7,7 +7,6 @@ Tez News App is a simple mobile application that provides users with news fetche
 - View news articles from various sources
 - Categorized news for easy navigation
 - Click on an article to read more details
-- Pull-to-refresh for the latest news updates
 - Simple and user-friendly interface
 
 ## Screenshots
